@@ -31,5 +31,6 @@ class MyThemeData {
           color: AppColors.whiteColor
       ),
     ),
+
   );
 }
